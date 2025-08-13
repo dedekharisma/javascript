@@ -1,7 +1,7 @@
 # My Front End Journey: JavaScript Basics
 
-Welcome to the third stage of my front-end journey!  
-With HTML giving me structure and CSS giving me style, now it’s time to give my pages a heartbeat using <a href="https://github.com/dedekharisma/my-frontend-journey">**JavaScript**</a>—the language that makes the web come alive.
+Welcome to the third stage of <a href="https://github.com/dedekharisma/my-frontend-journey">my front-end journey</a>!  
+With HTML giving me structure and CSS giving me style, now it’s time to give my pages a heartbeat using **JavaScript**—the language that makes the web come alive.
 
 ## What I'm Learning Here
 
